@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(https://mirpozitiva.ru/wp-content/uploads/2019/11/1477469601_nature_gora.jpg) no-repeat;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    background-size: cover;
+}
+
+
+.sprint-1 {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+.header {
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.container {
+    width: 80%;
+    max-width: 1200px;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: rgb(150, 223, 166);
+    
+}
+.small {
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0.2px rgb(55, 75, 59);
+    
+}
+.top {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bottom {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    justify-content: start;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.t1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.left {
+    margin-left: 30px;
+}
+.top-s {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(73, 87, 214);
+    margin: 0 auto;
+    margin-top: 10px;
+}
+i {
+    font-size: 40px;
+    color: rgb(15, 15, 15);
+    font-weight: bold;
+}
+.zag {
+    margin-left: 15px;
+    padding-bottom: 15px;
+}
+
+.botton a {
+    font-size: 15px;
+    padding: 10px 5px;
+    border: 1px solid rgb(52, 20, 233);
+    text-decoration: none;
+
+
+}
+.botton {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.botton p {
+    margin-top: 5px;
+}
+.sprint-2 {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+.bottom-2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    justify-content: start;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
